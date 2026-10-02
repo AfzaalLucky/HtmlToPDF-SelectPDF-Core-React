@@ -1,0 +1,9 @@
+# .NET build output (includes the ~250 MB Chromium runtime from Select.HtmlToPdf.NetCore.Blink)
+bin/
+obj/
+*.user
+.vs/
+
+# Node
+node_modules/
+dist/

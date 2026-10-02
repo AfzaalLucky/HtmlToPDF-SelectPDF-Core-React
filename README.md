@@ -73,5 +73,5 @@ npm run preview   # Serve the production build
 
 ## Licensing note
 
-SelectPdf is a commercial library. Without a license key it runs in trial or community mode, which may add a watermark or limit the page count.
-See the [SelectPdf licensing page](https://selectpdf.com/pricing/) for details.
+This project uses the free **SelectPdf Community Edition**, which can generate PDFs of up to **5 pages**.
+The 3-page policy fits within that limit. Longer documents need a commercial license; see the [SelectPdf licensing page](https://selectpdf.com/pricing/) for details.

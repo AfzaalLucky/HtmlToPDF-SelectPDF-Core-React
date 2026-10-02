@@ -4,6 +4,8 @@ Generates the **AI Foundry Responsible AI Development and Use Policy (AIF-POL-GO
 The policy HTML is built in C# with a `StringBuilder` and rendered to PDF server-side with
 [SelectPdf](https://selectpdf.com/) using its Blink (Chromium) engine. A React front end previews the HTML and downloads the PDF.
 
+![React front end previewing the AIF-POL-GOV-001 policy](docs/screenshot.png)
+
 ## Project layout
 
 ```
